@@ -11,5 +11,6 @@ return {
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.vue" },
+  { import = "astrocommunity.pack.python-ruff" },
   -- import/override with your plugins folder
 }
