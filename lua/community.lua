@@ -15,6 +15,7 @@ return {
   { import = "astrocommunity.pack.python.base" },
   { import = "astrocommunity.pack.python.ty" },
   { import = "astrocommunity.pack.mdx" },
+  { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.sql" },
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.yaml" },
